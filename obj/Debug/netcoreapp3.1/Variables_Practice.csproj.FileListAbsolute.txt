@@ -1,0 +1,13 @@
+/Users/jaredmillsap/Projects/Variables_Practice/Variables_Practice/bin/Debug/netcoreapp3.1/Variables_Practice.deps.json
+/Users/jaredmillsap/Projects/Variables_Practice/Variables_Practice/bin/Debug/netcoreapp3.1/Variables_Practice.runtimeconfig.json
+/Users/jaredmillsap/Projects/Variables_Practice/Variables_Practice/bin/Debug/netcoreapp3.1/Variables_Practice.runtimeconfig.dev.json
+/Users/jaredmillsap/Projects/Variables_Practice/Variables_Practice/bin/Debug/netcoreapp3.1/Variables_Practice.dll
+/Users/jaredmillsap/Projects/Variables_Practice/Variables_Practice/bin/Debug/netcoreapp3.1/Variables_Practice.pdb
+/Users/jaredmillsap/Projects/Variables_Practice/Variables_Practice/obj/Debug/netcoreapp3.1/Variables_Practice.csproj.AssemblyReference.cache
+/Users/jaredmillsap/Projects/Variables_Practice/Variables_Practice/obj/Debug/netcoreapp3.1/Variables_Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaredmillsap/Projects/Variables_Practice/Variables_Practice/obj/Debug/netcoreapp3.1/Variables_Practice.AssemblyInfoInputs.cache
+/Users/jaredmillsap/Projects/Variables_Practice/Variables_Practice/obj/Debug/netcoreapp3.1/Variables_Practice.AssemblyInfo.cs
+/Users/jaredmillsap/Projects/Variables_Practice/Variables_Practice/obj/Debug/netcoreapp3.1/Variables_Practice.csproj.CoreCompileInputs.cache
+/Users/jaredmillsap/Projects/Variables_Practice/Variables_Practice/obj/Debug/netcoreapp3.1/Variables_Practice.dll
+/Users/jaredmillsap/Projects/Variables_Practice/Variables_Practice/obj/Debug/netcoreapp3.1/Variables_Practice.pdb
+/Users/jaredmillsap/Projects/Variables_Practice/Variables_Practice/obj/Debug/netcoreapp3.1/Variables_Practice.genruntimeconfig.cache
